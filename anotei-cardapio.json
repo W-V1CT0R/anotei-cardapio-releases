@@ -1,8 +1,8 @@
 {
   "app": "anotei-cardapio",
-  "versionName": "1.0.15",
-  "versionCode": 211150761,
-  "apkUrl": "https://github.com/W-V1CT0R/anotei-cardapio-releases/releases/download/v1.0.15/AnotEI-Cardapio-1.0.15.apk",
-  "sha256": "19214705afa728a4a8ce90ec97ad2fa9cde5de26382fcc33afb51796ffac9d00",
+  "versionName": "1.0.1",
+  "versionCode": 211155370,
+  "apkUrl": "https://github.com/W-V1CT0R/anotei-cardapio-releases/releases/download/v1.0.1-211155370/AnotEI-Cardapio-1.0.1.apk",
+  "sha256": "4e0fa2683692a4179796b45705d402db9407820a7dfe19d38fe48cda5a0bbea9",
   "releaseNotes": "Correções e melhorias. Instale para manter o Cardápio atualizado."
 }
